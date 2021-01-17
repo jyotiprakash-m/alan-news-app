@@ -40,7 +40,7 @@ const App = () =>{
     return(
         <div>
             <div className={classes.logoContainer}>
-                <img className={classes.alanLogo} src="https://storage.pixteller.com/designs/designs-images/2020-09-09/09/logo-design-branding-logo-shapes-write-circular-1-5f591bcc67b8e.png" alt=""/>
+                <img className={classes.alanLogo} src="https://alan.app/voice/images/branding_page/logo-vertical/color/alan-logo-vertical-color.png" alt="alan app logo"/>
             </div>
             <NewsCards articles={newsArticles} activeArticle={activeArticle}/>
         </div>
